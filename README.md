@@ -25,3 +25,13 @@ Clone the repo:
 ```bash
 git clone https://github.com/Pyro1007/reachprojection.git
 cd reachprojection
+
+
+
+reachprojection/
+├── components/
+├── pages/ or src/ (depends on framework)
+├── public/
+├── styles/
+├── package.json
+└── tsconfig.json
